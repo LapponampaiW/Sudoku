@@ -7,4 +7,5 @@
     <string name="about_label">เกี่ยวกับซูโดกุ</string>
     <string name="exit_label">ออกจากเกม</string>
     <string name="about_text">\<br>ซูโดกุ (Sudoku)</br>เป็นเกมที่ผู้เล่นจะต้องเติมตัวเลข 1 ถึง 9 ลงในช่องต่างๆเพื่อทำให้แต่ละแถว (แนวนอน), แต่ละคอลัมน์ (แนวตั้ง) และแต่ละตารางย่อยขนาด 3x3 มีตัวเลข 1 ถึง 9 ครบทุกตัวเลข</string>
+    <string name="setting_label">ตัวเลือก</string>
 </resources>
