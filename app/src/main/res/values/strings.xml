@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title">Sudoku</string>
+    <string name="continue_label">เล่นเกมต่อจากเดิม</string>
+    <string name="new_game_label">เริ่มเกมใหม่</string>
+    <string name="about_label">เกี่ยวกับซูโดกุ</string>
+    <string name="exit_label">ออกจากเกม</string>
+</resources>
