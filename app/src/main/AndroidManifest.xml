@@ -22,6 +22,10 @@
             android:name=".AboutActivity"
             android:theme="@style/Theme.AppCompat.Dialog">
         </activity>
+        <activity
+            android:name=".SettingsActivity">
+        </activity>
+
     </application>
 
 </manifest>
